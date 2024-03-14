@@ -25,3 +25,5 @@ Python: Utilizado para a lógica de programação e implementação da API.<br>
 Docker: Utilizado para empacotar a aplicação e suas dependências em containers, garantindo a portabilidade e a consistência do ambiente de execução..<br>
 AWS (Amazon Web Services): Utilizado para hospedar e implantar a aplicação na nuvem, aproveitando os serviços de infraestrutura e escalabilidade oferecidos pela AWS..<br>
 Terraform: Utilizado para provisionar e gerenciar a infraestrutura como código na AWS, permitindo uma implantação automatizada e controlada da infraestrutura necessária para executar a aplicação.
+
+![Arquitetura](img/desafio.drawio.png)
