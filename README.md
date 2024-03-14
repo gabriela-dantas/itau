@@ -1,6 +1,6 @@
 # itau
 
-<b>Validador de JWT</b>
+<b>Validador de JWT</b><br>
 Este é um projeto de uma aplicação que expõe uma API web para validar tokens JWT (JSON Web Tokens) de acordo com as seguintes regras:
 
 Deve ser um JWT válido.
@@ -17,7 +17,7 @@ Output: Um booleano indicando se é válido ou não.
 <br>
 </br>
 
-<b>Tecnologias Utilizadas</b>
+<b>Tecnologias Utilizadas</b><br>
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Python: Utilizado para a lógica de programação e implementação da API.
